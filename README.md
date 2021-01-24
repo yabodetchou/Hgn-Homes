@@ -10,5 +10,4 @@ Adobe XD
 ##### View Site:
 https://hgn-homes.netlify.app/
 
-
-[screencapture-hgn-homes-netlify-app-2021-01-24-17_38_48.pdf](https://github.com/YaboDetchou/Hgn-Homes/files/5863368/screencapture-hgn-homes-netlify-app-2021-01-24-17_38_48.pdf)
+![screencapture-hgn-homes-netlify-app-2021-01-24-17_38_48-min](https://user-images.githubusercontent.com/44301883/105646018-6ee5d600-5e6b-11eb-9f2e-e48e50bdca9d.png)
